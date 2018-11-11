@@ -1,0 +1,3 @@
+rootProject.name = 'DetectMl'
+
+include ':app'
